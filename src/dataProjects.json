@@ -2,7 +2,9 @@
     {
     "id": 1,
     "name": "Flavour Finder",
+    "description": "hola",
     "screenshot": "/assets/images/flavour-finder.png",
+    "github": ".",
     "web": "https://blaztted.github.io/flavour-finder/"
     },
     {
@@ -36,3 +38,4 @@
     "web": "https://github.com/Andrea-Melisa/README-generator-Andrea-Melisa"
     }
 ]
+
