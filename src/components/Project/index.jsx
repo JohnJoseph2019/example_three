@@ -7,14 +7,12 @@ function ProjectCard({project}) {
       <Card.Img variant="top" src="holder.js/100px180" />
       <Card.Body>
         <Card.Title>{project.title}Card Title</Card.Title>
-        <Card.Text>
-         {project.description}
-        </Card.Text>
-        <a href=''><Button variant="primary">Repo</Button><a/>
-        <a href=''><Button variant="primary">Repo</Button><a/>
+        <Card.Text>{project.description}</Card.Text>
+        <a href=''><Button variant="primary">Repo</Button></a>
+        <a href=''><Button variant="primary">Web</Button></a>
       </Card.Body>
     </Card>
   );
 }
 
-export default ProjectCard;
+export default ProjectCard
