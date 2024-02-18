@@ -1,0 +1,38 @@
+[
+    {
+    "id": 1,
+    "name": "Flavour Finder",
+    "screenshot": "/assets/images/flavour-finder.png",
+    "web": "https://blaztted.github.io/flavour-finder/"
+    },
+    {
+    "id": 2,
+    "name": "Weather Dashboard",
+    "screenshot": "/assets/images/weather.png",
+    "web": "https://andrea-melisa.github.io/Weather-Dashboard-Andrea-Melisa/"
+    },
+    {
+    "id": 3,
+    "name": "Team Profile Generator",
+    "screenshot": "/assets/images/TeamGenerator.png",
+    "web": "https://github.com/Andrea-Melisa/Team-Profile-Generator-Andrea-Melisa"
+    },
+    {
+    "id": 4,
+    "name": "Work Day Scheduler",
+    "screenshot": "/assets/images/Work-Day.png",
+    "web": "https://andrea-melisa.github.io/Work-Day-Scheduler-Andrea-Melisa/"
+    },
+    {
+    "id": 5,
+    "name": "Password Generator",
+    "screenshot": "/assets/images/PasswordGenerator.png",
+    "web": "https://andrea-melisa.github.io/Password-Generator-Andrea-Melisa/"
+    },
+    {
+    "id": 6,
+    "name": "Readme Generator",
+    "screenshot": "/assets/images/PasswordGenerator.png",
+    "web": "https://github.com/Andrea-Melisa/README-generator-Andrea-Melisa"
+    }
+]
