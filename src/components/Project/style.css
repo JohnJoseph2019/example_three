@@ -8,12 +8,23 @@
     width: 325px;
     box-shadow: 0 3px 6px #999, 0 3px 6px #999;
     text-align: center;
+    height: 600px !important;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 
-#button {
-    background-color: aquamarine;
-    color: black;
+.button {
+    background-color: rgb(169, 218, 201) !important;
+    color: black !important;
+    border-color: #999 !important;
     padding: 10px;
+    margin: 1rem;
 }
 
+/* .img-container {
+    height: 150px;
+    width: 150px;
+} */

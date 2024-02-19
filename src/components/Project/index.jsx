@@ -10,7 +10,7 @@ function ProjectCard({project}) {
         <Card.Title>{project.name}</Card.Title>
         <Card.Text>{project.description}</Card.Text>
         <a href={project.github}>  <Button className="button" variant="primary">GitHub Repo</Button></a>
-        <a href={project.web}><Button variant="primary">Deployed Web</Button></a>
+        <a href={project.web}><Button className="button" variant="primary">Deployed Web</Button></a>
       </Card.Body>
     </Card>
   );
