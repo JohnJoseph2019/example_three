@@ -2,39 +2,49 @@
     {
     "id": 1,
     "name": "Flavour Finder",
-    "description": "hola",
-    "screenshot": "/assets/images/flavour-finder.png",
-    "github": ".",
+    "description": "Recipe application",
+    "screenshot": "./src/assets/images/flavour-finder.png",
+    "github": "https://github.com/blaztted/flavour-finder",
     "web": "https://blaztted.github.io/flavour-finder/"
     },
     {
     "id": 2,
     "name": "Weather Dashboard",
-    "screenshot": "/assets/images/weather.png",
+    "description": "Ask the weather",
+    "screenshot": "./src//assets/images/weather.png",
+    "github": "https://github.com/Andrea-Melisa/Weather-Dashboard-Andrea-Melisa",
     "web": "https://andrea-melisa.github.io/Weather-Dashboard-Andrea-Melisa/"
     },
     {
     "id": 3,
     "name": "Team Profile Generator",
-    "screenshot": "/assets/images/TeamGenerator.png",
+    "description": "Application to create your own team",
+    "screenshot": "./src/assets/images/TeamGenerator.png",
+    "github": "https://github.com/Andrea-Melisa/Team-Profile-Generator-Andrea-Melisa",
     "web": "https://github.com/Andrea-Melisa/Team-Profile-Generator-Andrea-Melisa"
     },
     {
     "id": 4,
     "name": "Work Day Scheduler",
-    "screenshot": "/assets/images/Work-Day.png",
+    "description": "Calendar application that allows a user to save events for each hour of the day.",
+    "screenshot": "./src/assets/images/Work-Day.png",
+    "github": "https://github.com/Andrea-Melisa/Work-Day-Scheduler-Andrea-Melisa",
     "web": "https://andrea-melisa.github.io/Work-Day-Scheduler-Andrea-Melisa/"
     },
     {
     "id": 5,
     "name": "Password Generator",
-    "screenshot": "/assets/images/PasswordGenerator.png",
+    "description": "Application that generates more secure passwords",
+    "screenshot": "./src/assets/images/PasswordGenerator.png",
+    "github": "https://github.com/Andrea-Melisa/Password-Generator-Andrea-Melisa",
     "web": "https://andrea-melisa.github.io/Password-Generator-Andrea-Melisa/"
     },
     {
     "id": 6,
     "name": "Readme Generator",
-    "screenshot": "/assets/images/PasswordGenerator.png",
+    "description": "Application that creates README for developers projects.",
+    "screenshot": "./src/assets/images/",
+    "github": "",
     "web": "https://github.com/Andrea-Melisa/README-generator-Andrea-Melisa"
     }
 ]

@@ -1,0 +1,19 @@
+
+.card {
+    background: #fff;
+    border-radius: 10px;
+    height: 325px;
+    margin: 3rem;
+    position: relative;
+    width: 325px;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: center;
+}
+
+
+#button {
+    background-color: aquamarine;
+    color: black;
+    padding: 10px;
+}
+

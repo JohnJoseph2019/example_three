@@ -1,15 +1,16 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+import "./style.css";
 
 function ProjectCard({project}) {
   return (
-    <Card style={{ width: '18rem' }}>
-      <Card.Img variant="top" src="holder.js/100px180" />
-      <Card.Body>
-        <Card.Title>{project.title}Card Title</Card.Title>
+    <Card className="Card" style={{ width: '25rem' }}>
+      <Card.Img className="img-container" variant="top" src={project.screenshot} />
+      <Card.Body className="content">
+        <Card.Title>{project.name}</Card.Title>
         <Card.Text>{project.description}</Card.Text>
-        <a href=''><Button variant="primary">Repo</Button></a>
-        <a href=''><Button variant="primary">Web</Button></a>
+        <a href={project.github}>  <Button className="button" variant="primary">GitHub Repo</Button></a>
+        <a href={project.web}><Button variant="primary">Deployed Web</Button></a>
       </Card.Body>
     </Card>
   );
