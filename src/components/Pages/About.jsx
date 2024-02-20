@@ -5,7 +5,7 @@ const About = () => {
         <h1>About me</h1>
 
 
-        <p>Hello, my name is Andrea. I'm currently studying front end web development and i'd love to switch career. It is challenching to start over again, but also very rewarding.</p>
+        <p>Hello, my name is Andrea. I'm About to finish the front end web development bootcamp and i'd love to switch career. It is challenching to start over again, but also very rewarding.</p>
         <p>I am a mother of two wonderful children with 1 and 3 years and they are super cute and funny. They also teach me lot's of things and how to enjoy every single day.</p>
 
         <section class="container-sm skillsSection" id="skills"><h2>Skills</h2>
