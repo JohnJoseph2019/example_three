@@ -41,11 +41,11 @@
     },
     {
     "id": 6,
-    "name": "Readme Generator",
-    "description": "Application that creates README for developers projects.",
-    "screenshot": "./src/assets/images/",
-    "github": "",
-    "web": "https://github.com/Andrea-Melisa/README-generator-Andrea-Melisa"
+    "name": "Horiseon Code refactor",
+    "description": "Refactoring code to make it accesible",
+    "screenshot": "./src/assets/images/CodeRefactor.png",
+    "github": "https://github.com/Andrea-Melisa/horiseon-code-refactor",
+    "web": "https://andrea-melisa.github.io/horiseon-code-refactor/"
     }
 ]
 
