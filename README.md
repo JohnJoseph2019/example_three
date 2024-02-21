@@ -1,24 +1,15 @@
-# React + Vite
+# Team Profile Generator Andrea Melisa
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This here is the challenge number eleven from the bootcamp, which is the last one. 
+For this challenge, I will utilize what you have learned in `Module 13: React` to develop the initial scaffolding of your portfolio sites as well as create and/or update other materials so that I can showcase your skills to potential employers. 
 
+## Acceptance Criteria
 
---------------------
-
-# Challenge 13: React Portfolio
-
-For this challenge, you will utilize what you have learned in `Module 13: React` to develop the initial scaffolding of your portfolio sites.
-
-Now that you've worked with React and have multiple projects to share, it's time to develop the initial scaffolding for your first portfolio site as well as create and/or update other materials so that you can showcase your skills to potential employers. Creating a portfolio using React will help set you apart from other developers whose portfolios do not use some of the latest technologies.
-
-## Instructions
-
-* Students must fullfil the requirements listed in the following sections:
+* I must fullfil the requirements listed in the following sections:
 
 ### Design
 
@@ -98,44 +89,42 @@ Remember, "good" design is subjective. Your site should look "polished" and "pro
 #### GitHub
 
 * Update GitHub profile with pinned repositories featuring those same projects.
+## Table of Contents
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [License](#license)
+  4. [Contributing](#contributing)
+  5. [Tests](#tests)
+  6. [Credits](#credits)
+  7. [Badges](#badges)
+  8. [Questions](#questions)
 
-## Grading
+  ## Installation
+  n/a
 
-This challenge is assessed on the following criteria:
+  ## Usage
 
-### Technical Acceptance Criteria: 40%
+Navigate through the web page.  
 
-* Satisfies all of the above acceptance criteria
+**Here is the link to this project** https://andrea-melisa.github.io/React-Portfolio-Andrea-Melisa/
 
-### Deployment: 32%
+  ## License 
+  This project is licensed under the MIT license.
 
-* Application deployed at live URL (if applicable).
+  ## Contributing
+  Yes.
 
-* Application loads with no errors.
+  ## Tests
+  No specific tests have been written for this project yet.
 
-* Application GitHub URL submitted (if applicable).
+  ## Credits
+  Thanks to the instructor Laura Cole and to the TA Martin William from EDX for all their knowledge and support. Thank you for the tutor Juan Delgado and a big thank you to Marcos Z. as allways.
+  
+  ## Badges
+  React
+  [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  [![Node.js](https://img.shields.io/badge/Node.js-v14-green)](https://nodejs.org/)
+  [![Git](https://img.shields.io/badge/Git-v2.32-blue)](https://git-scm.com/)
 
-* GitHub repository that contains application code.
-
-### Application Quality: 15%
-
-* User experience is intuitive and easy to navigate.
-
-* User interface style is clean and polished.
-
-* Application uses a color scheme other than the default Bootstrap color palette.
-
-### Repository Quality: 13%
-
-* Repository has a unique name.
-
-* Repository follows best practices for file structure and naming conventions.
-
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
-
-* Repository contains multiple descriptive commit messages.
-
-* Repository contains quality README file with description, screenshot, and link to deployed application.
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+  ## Questions
+  If you have any questions about this repo you can contact me directly at [andream_dearth@hotmail.com](mailto:andream_dearth@hotmail.com). Here you can find more of my work at [Andrea-Melisa](https://www.github.com/Andrea-Melisa).
