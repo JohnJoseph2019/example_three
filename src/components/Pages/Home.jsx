@@ -7,15 +7,15 @@ const Home = () => {
     <>
         <h1>Welcome to my portfolio!</h1>
         <br></br>
-        <p>Hello, I'm Andrea Melisa and I am a Front End Developer!</p>
+        <p>Hello, I'm Andrea Melisa and I am a <span>Front End Developer!</span></p>
         <p>This application is my portfolio created using React.</p>
 
-        <div className="photo">
-			<img src={AndreaPhoto} alt="Andrea Martinez smiling" />
+        <div>
+			<img src={AndreaPhoto} alt="Andrea Martinez smiling"  className="photo" />
 		</div>
         <br></br>
 
-        <p>I try to be a very detail oriented person! </p>
+        <p>I try to be a very <span> detail oriented </span> person! </p>
 
         <Footer />
     </>

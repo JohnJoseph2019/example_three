@@ -56,7 +56,7 @@ const Contact = () => {
 
 
         <p>If you're interested in <span>working with me</span> or <span>have any questions,</span> please don't hesitate to contact me. I will be pleased to receive your message! </p>
-        <Form onSubmit={handleSubmit}>
+        <Form className="Form" onSubmit={handleSubmit}>
         <Form.Group controlId="formName">
         <Form.Label>Name</Form.Label>
         <Form.Control
