@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import { Form, Button } from 'react-bootstrap';
 import resume from "../../assets/pdf/resume.pdf" 
+import Footer from '../Footer';
 
 
 const Contact = () => {
@@ -97,6 +98,8 @@ const Contact = () => {
         Submit
         </Button>
     </Form>
+
+    <Footer />
     </>
     )
 }

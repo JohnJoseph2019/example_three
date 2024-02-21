@@ -1,5 +1,7 @@
-import Project from '../Project';
+import Project from '../Project'
+// import Project from '../Project/Project';
 import dataProjects from '../../dataProjects.json'
+import Footer from '../Footer';
 
 
 const ProjectGallery = () => {
@@ -11,6 +13,10 @@ const ProjectGallery = () => {
             {dataProjects.map(project => (
                 <Project key={project.id} project={project} />
             ))}
+
+            <Footer />
+        
+        
         </>
     )
 }
